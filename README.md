@@ -1,14 +1,11 @@
 # PySparkInAction
 
 This is the companion repository for the _PySpark In Action_ book (Manning,
-estimated publishing date: end of 2020.) It contains the source code and data
+estimated publishing date: early 2021.) It contains the source code and data
 (or data download scripts if pertinent).
 
-Right now, Chapter 2 to 4 are available (Chapter 6 has no external source code
-at the moment).
-
-I plan to add exercise solutions as I go along. Stay tuned!
-
+Right now, Chapter 2 to 7 are available (Chapter 6 and 8 have no external source
+code at the moment).
 
 ## Mistakes or omissions
 
